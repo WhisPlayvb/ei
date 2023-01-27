@@ -1,0 +1,7 @@
+Traffic LED Blinking: https://www.tinkercad.com/things/1KQZ7IMZR1h
+
+Ultrasonic Sensor: https://www.tinkercad.com/things/4dvPGgfjieY
+
+Temperature Sensor: https://www.tinkercad.com/things/5HAEmzvojsK
+
+DC Motor: https://www.tinkercad.com/things/eQXhF1QMhe2 
